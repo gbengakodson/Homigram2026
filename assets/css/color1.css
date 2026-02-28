@@ -108,9 +108,9 @@ Author URI: https://themeforest.net/user/pixelstrap
 body {
   font-family: Montserrat, sans-serif;
   position: relative;
-  background: white;
+  background: rgb(255, 255, 255);
   font-size: 14px;
-  color: #1c2d3a;
+  color: #676565;
   -webkit-transition: unset !important;
   transition: unset !important; }
 
